@@ -193,3 +193,6 @@
 	path = oca/website
 	url = git@github.com:OCA/website.git
 	branch = 14.0
+[submodule "custom/odoo-brasil"]
+	path = custom/odoo-brasil
+	url = git@github.com:Trust-Code/odoo-brasil.git
