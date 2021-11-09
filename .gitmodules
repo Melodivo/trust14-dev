@@ -1,6 +1,3 @@
-[submodule "core14"]
-	path = core14
-	url = git@github.com:odoo/odoo.git
 [submodule "oca/account-analytic"]
 	path = oca/account-analytic
 	url = git@github.com:OCA/account-analytic.git
